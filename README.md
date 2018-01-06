@@ -1,2 +1,2 @@
 # lisp-sandbox
-Learning Common Lisp language
+Learning and practice Common Lisp language.
